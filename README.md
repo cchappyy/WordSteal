@@ -7,3 +7,4 @@ used by malware creators to include images through http for statistics.We can al
 and the victim will authenticate with his logins credentials.
 This is very useful during a pentest because allows you to steal credentials without triggering any alerts and most of 
 the security apps do not detect this.
+ 
